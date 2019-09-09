@@ -98,7 +98,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 * [Библиотека](https://google.github.io/CausalImpact/CausalImpact.html) CausalImpact на R (есть порт на python)
 
 ### Задания
-* [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19 (присылать на почту nchirkova@hse.ru с темой "[BM_task1] Фамилия Имя".
+* [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19.
 
 
 ### Полезные материалы
