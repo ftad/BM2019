@@ -39,6 +39,8 @@ O<sub>накопленная</sub> = О<sub>домашние задания</sub
 При обнаружении плагиата оценки за домашнее задание обнуляются всем задействованным в списывании студентам. Это очень строгое правило!
 
 ### Материалы занятий
+__На канале ФКН на Youtube доступны [видео](https://www.youtube.com/watch?v=Ejsr3S79gcQ&list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw) лекций Ветрова Д. П.__
+
 __Занятие 1. Байесовские рассуждения__
 * [Видео лекции](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw)
 * [Конспект лекции](https://drive.google.com/file/d/13Q58mRGh5uN8xyhMiTfoOXOYvxUKbvRY/view)
@@ -46,8 +48,11 @@ __Занятие 1. Байесовские рассуждения__
 * [Задачи семинара](http://www.machinelearning.ru/wiki/images/1/18/S01_bayesian_reasoning_2016.pdf)
 
 __Занятие 2. Сопряженные распределения и принцип наибольшей обоснованности__
-* [Конспект-презентация](http://www.machinelearning.ru/wiki/images/b/bd/BMMO11_5.pdf)
-* [Презентация с распределениями](https://github.com/ftad/BM2018/blob/master/materials/distributions.pdf)
+* [Конспект-презентация про сопряженные распределения](http://www.machinelearning.ru/wiki/images/b/bd/BMMO11_5.pdf)
+* [Конспект-презентация про обоснованность](http://www.machinelearning.ru/wiki/images/b/bd/BMMO11_5.pdf)
+* [Мини-конспект про сопряженные распределения](https://drive.google.com/file/d/1g9cNLw85MchawKbSV7F0nUXyEi9m36sR/view)
+* [Мини-конспект про обоснованность](https://drive.google.com/file/d/1l8fhZQ5V60wZaL9n_YlKNESW1y01PtX2/view?usp=sharing)
+* [Презентация с распределениями](https://github.com/ftad/BM2018/blob/master/materials/distributions.pdf) 
 
 __Занятие 3. Экспоненциальный класс распределений и матричное дифференцирование__
 * [Конспект об экспоненциальном классе](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf) от Michael I. Jordan
@@ -99,6 +104,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19.
+* [Домашнее задание 2](https://github.com/ftad/BM2019/blob/master/materials/homework2%202019.pdf). Дедлайн: 18:00 23.09.19.
 
 
 ### Полезные материалы
