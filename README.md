@@ -57,7 +57,7 @@ __Занятие 2. Сопряженные распределения и при�
 __Занятие 3. Экспоненциальный класс распределений и матричное дифференцирование__
 * [Конспект о матричном дифференцировании](http://www.machinelearning.ru/wiki/images/1/16/S04_matrix_calculations.pdf)
 * [Об экспоненциальном классе](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf) от Michael I. Jordan
-* [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) не очень доступно но полно
+* [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 __Занятие 4. Метод релевантных векторов__
 * [Конспект-презентация](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf)
