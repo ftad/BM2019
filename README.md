@@ -104,7 +104,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19.
 * [Домашнее задание 2](https://github.com/ftad/BM2019/blob/master/materials/homework2%202019.pdf). Дедлайн: 18:00 23.09.19.
-* [Домашнее задание 3](https://github.com/ftad/BM2019/blob/master/materials/homework3%202019.pdf). Дедлайн: 18:00 30.09.19.
+* [Домашнее задание 3](https://github.com/ftad/BM2019/blob/master/materials/homework3%202019.pdf). Дедлайн: 18:00 01.10.19.
 
 
 ### Полезные материалы
