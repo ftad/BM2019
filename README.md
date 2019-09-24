@@ -55,10 +55,9 @@ __Занятие 2. Сопряженные распределения и при�
 * [Презентация с распределениями](https://github.com/ftad/BM2018/blob/master/materials/distributions.pdf) 
 
 __Занятие 3. Экспоненциальный класс распределений и матричное дифференцирование__
-* [Конспект об экспоненциальном классе](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf) от Michael I. Jordan
-* [Конспект о матричном дифференцировании и нормальном распределении](http://www.machinelearning.ru/wiki/images/6/6c/BMMO11_8.pdf)
-* [О матричном дифференцировании](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) не очень доступно но полно
-* [О матричном дифференцировании](http://www.machinelearning.ru/wiki/images/a/ab/MOMO18_Seminar1.pdf) не очень полно но доступно и с кучей примеров
+* [Конспект о матричном дифференцировании](http://www.machinelearning.ru/wiki/images/1/16/S04_matrix_calculations.pdf)
+* [Об экспоненциальном классе](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf) от Michael I. Jordan
+* [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) не очень доступно но полно
 
 __Занятие 4. Метод релевантных векторов__
 * [Конспект-презентация](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf)
@@ -105,6 +104,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19.
 * [Домашнее задание 2](https://github.com/ftad/BM2019/blob/master/materials/homework2%202019.pdf). Дедлайн: 18:00 23.09.19.
+* [Домашнее задание 3](https://github.com/ftad/BM2019/blob/master/materials/homework3%202019.pdf). Дедлайн: 18:00 30.09.19.
 
 
 ### Полезные материалы
