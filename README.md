@@ -61,7 +61,6 @@ __Занятие 3. Экспоненциальный класс распреде
 
 __Занятие 4. Метод релевантных векторов__
 * [Конспект-презентация](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf)
-* [Презентация с экспериментами](http://www.machinelearning.ru/wiki/images/8/8d/BMML15_S06_show.pdf)
 
 __Занятие 5. EM-алгоритм__
 * [Презентация по EM-алгоритму](https://drive.google.com/file/d/1CFGIuArumNz-qjVdCQqlxSpRbgGG3Ij_/view?usp=sharing)
