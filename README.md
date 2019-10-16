@@ -106,6 +106,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 * [Домашнее задание 3](https://github.com/ftad/BM2019/blob/master/materials/homework3%202019.pdf). Дедлайн: 18:00 01.10.19.
 * [Домашнее задание 4](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 07.10.18. Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y. Вы можете добавить аргументы в прототипы функций, если вам это нужно. Алгоритм приведен [в презентации](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf) на слайде 17.
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 14.10.18
+* [Домашнее задание 6.](https://github.com/ftad/BM2019/blob/master/materials/homework6.ipynb) [Данные.](https://github.com/ftad/BM2019/blob/master/materials/data_hw6.zip) Дедлайн: 23:59 30.10.2019.
 
 
 ### Полезные материалы
