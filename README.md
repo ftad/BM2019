@@ -71,6 +71,7 @@ __Занятие 6. EM-алгоритм. Решение задач__
 
 __Занятие 7. EM-алгоритм. Вариационный вывод__
 * [Конспект с примерами применения](http://www.machinelearning.ru/wiki/images/3/34/Variational_inference.pdf)
+* [Решение задачи](https://drive.google.com/file/d/0B7TWwiIrcJstTEpMUkRSTEk0VDA/view)
 * Теория с пояснениями - 21 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
 
 __Занятие 8. Байесовские нейронные сети__
