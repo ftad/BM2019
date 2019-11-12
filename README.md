@@ -75,31 +75,22 @@ __Занятие 7. EM-алгоритм. Вариационный вывод__
 * Теория с пояснениями - 21 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
 
 __Занятие 8. Байесовские нейронные сети__
-* [Презентация по байесовским нейронным сетям](https://drive.google.com/file/d/1yO2IQjYhx1R39ZSOSbJG7V0knwI_X7YC/view?usp=sharing)
-* [Презентация по разреживающему вариационному дропауту](https://drive.google.com/file/d/1ZHy_26SOTpSLrYSfuBDF4khvrYlRmc-U/view?usp=sharing)
-* Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf)
+* [Презентация](https://github.com/ftad/BM2019/blob/master/materials/hw7/BNN.pdf)
+* Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf), 
 
-__Занятие 9. Вариационные автокодировщики__
-* [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
-
-__Занятие 10. Методы Монте-Карло с марковскими цепями__
+__Занятие 9. Методы Монте-Карло с марковскими цепями__
 * [Конспект](http://www.machinelearning.ru/wiki/images/6/6b/BMMO11_10.pdf)
 * [Подробный туториал на английском](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
 
-__Занятие 11. Latent Dirichlet Allocation__
-* [Конспект лекции Ветрова](http://www.machinelearning.ru/wiki/images/8/82/BMMO11_14.pdf)
-* Теория - 23 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
-* [Про тематическое моделирование](http://www.machinelearning.ru/wiki/index.php?title=%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-
-__Занятие 12. Гауссовские процессы__
+__Занятие 10. Гауссовские процессы__
 * [Презентация Е. Бурнаева](https://drive.google.com/file/d/1yhSOkV2TNCSrjbrNMUtYerXXZY1dQpo4/view?usp=sharing)
 * [Презентация М. Филиппоне](https://drive.google.com/file/d/0B2zoFVYw1rN3SDJ0OU1nNVRxVWc/view?usp=sharing)
 
-__Занятие 12. State-Space Model. Bayesian Structural Time Series__
-* Теория - 18 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
-* [Видео](https://www.youtube.com/watch?v=GTgZfCltMm8) о CausalImpact от создателя
-* [Статья](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf) о CausalImpact
-* [Библиотека](https://google.github.io/CausalImpact/CausalImpact.html) CausalImpact на R (есть порт на python)
+__Занятие 11. Вариационные автокодировщики__
+* [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
+
+__Занятие 12. Модицификации вариационных автокодироващиков__
+
 
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 16.09.19.
@@ -108,6 +99,7 @@ __Занятие 12. State-Space Model. Bayesian Structural Time Series__
 * [Домашнее задание 4](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 07.10.18. Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y. Вы можете добавить аргументы в прототипы функций, если вам это нужно. Алгоритм приведен [в презентации](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf) на слайде 17.
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 14.10.18
 * [Домашнее задание 6.](https://github.com/ftad/BM2019/blob/master/materials/homework6.ipynb) [Данные.](https://github.com/ftad/BM2019/blob/master/materials/data_hw6.zip) Дедлайн: 23:59 03.11.2019.
+* [Домашнее задание 7.](https://github.com/ftad/BM2019/tree/master/materials/hw7) (скачайте hw7.ipynb и logger.py). Дедлайн: 23:59 19.11.2019.
 
 
 ### Полезные материалы
