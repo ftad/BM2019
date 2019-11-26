@@ -76,18 +76,18 @@ __Занятие 7. EM-алгоритм. Вариационный вывод__
 
 __Занятие 8. Байесовские нейронные сети__
 * [Презентация](https://github.com/ftad/BM2019/blob/master/materials/hw7/BNN.pdf)
-* Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf), 
+* Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf)
 
-__Занятие 9. Методы Монте-Карло с марковскими цепями__
+__Занятие 9. Вариационные автокодировщики__
+* [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
+
+__Занятие 10. Методы Монте-Карло с марковскими цепями__
 * [Конспект](http://www.machinelearning.ru/wiki/images/6/6b/BMMO11_10.pdf)
 * [Подробный туториал на английском](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
 
-__Занятие 10. Гауссовские процессы__
+__Занятие 11. Гауссовские процессы__
 * [Презентация Е. Бурнаева](https://drive.google.com/file/d/1yhSOkV2TNCSrjbrNMUtYerXXZY1dQpo4/view?usp=sharing)
 * [Презентация М. Филиппоне](https://drive.google.com/file/d/0B2zoFVYw1rN3SDJ0OU1nNVRxVWc/view?usp=sharing)
-
-__Занятие 11. Вариационные автокодировщики__
-* [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
 
 __Занятие 12. Модицификации вариационных автокодироващиков__
 
@@ -100,6 +100,7 @@ __Занятие 12. Модицификации вариационных авт�
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 14.10.18
 * [Домашнее задание 6.](https://github.com/ftad/BM2019/blob/master/materials/homework6.ipynb) [Данные.](https://github.com/ftad/BM2019/blob/master/materials/data_hw6.zip) Дедлайн: 23:59 03.11.2019.
 * [Домашнее задание 7.](https://github.com/ftad/BM2019/tree/master/materials/hw7) (скачайте hw7.ipynb и logger.py). Дедлайн: 23:59 19.11.2019.
+* [Домашнее задание 8.](https://github.com/ftad/BM2019/blob/master/materials/homework_MCMC.pdf). Дедлайн: 23:59 05.12.2019.
 
 
 ### Полезные материалы
