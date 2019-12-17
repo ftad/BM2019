@@ -101,6 +101,7 @@ __Занятие 12. Модицификации вариационных авт�
 * [Домашнее задание 6.](https://github.com/ftad/BM2019/blob/master/materials/homework6.ipynb) [Данные.](https://github.com/ftad/BM2019/blob/master/materials/data_hw6.zip) Дедлайн: 23:59 03.11.2019.
 * [Домашнее задание 7.](https://github.com/ftad/BM2019/tree/master/materials/hw7) (скачайте hw7.ipynb и logger.py). Дедлайн: 23:59 19.11.2019.
 * [Домашнее задание 8.](https://github.com/ftad/BM2019/blob/master/materials/homework_MCMC.pdf). Дедлайн: 23:59 05.12.2019.
+* [Домашнее задание 9.](https://github.com/ftad/BM2019/blob/master/materials/homework10_opt.ipynb) - необязательное. Дедлайн: 23:59 25.12.2019 
 
 
 ### Полезные материалы
