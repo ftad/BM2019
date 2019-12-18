@@ -24,7 +24,7 @@ O<sub>накопленная</sub> = О<sub>домашние задания</sub
 Накопленная, экзаменационная и итоговая оценки округляются арифметически.
 
 ### Экзамен
-[Вопросы к экзамену (прошлогодняя версия)](https://github.com/ftad/BM2018/blob/master/materials/BMMO_exam.pdf)
+[Вопросы к экзамену (версия этого года)](https://github.com/ftad/BM2019/blob/master/materials/BMMO_exam.pdf)
 
 Экзамен письменный, экзаменационная работа состоит из теоретических вопросов из списка вопросов и задач. Продолжительность написания: 1 час 30 минут. На экзамене нельзя ничем пользоваться.
 
@@ -90,6 +90,8 @@ __Занятие 11. Гауссовские процессы__
 * [Презентация М. Филиппоне](https://drive.google.com/file/d/0B2zoFVYw1rN3SDJ0OU1nNVRxVWc/view?usp=sharing)
 
 __Занятие 12. Модицификации вариационных автокодироващиков__
+* [Презентация про нормализующие потоки](https://github.com/bayesgroup/deepbayes-2019/blob/master/lectures/day3/2.%20Arsenii%20Ashukha%20-%20Normalizing%20flows.pdf)
+* [Презентация про дискретные латентные переменные](https://github.com/bayesgroup/deepbayes-2019/blob/master/lectures/day2/2.%20Artem%20Sobolev%20-%20Discrete%20Variable%20Models.pdf)
 
 
 ### Задания
